@@ -1,4 +1,4 @@
 {
-  "apiPath":"https://id-api.danatunas.com",
-  "h5Path":"https://id-app.danatunas.com"
+    "apiPath": "https://id-api.danatunas.com",
+    "h5Path": "https://id-app.danatunas.com"
 }
